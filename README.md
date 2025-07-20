@@ -106,7 +106,8 @@ Women who dare to learn, speak, and grow
 
 🌐 Learn More
 📱 Website: [https://benevolent-nougat-63768a.netlify.app/]
+
 🐙 GitHub: https://github.com/SKSAGAR281/Ekaa---Personal-Pocket-Mentor-
-📧 Contact: ekka.support@protonmail.com
+
 
 “Real learning. Real confidence. Real change.” – Ekaa
