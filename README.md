@@ -76,10 +76,15 @@ Our mission is to democratize access to **practical life knowledge** for underse
 ## 📁 Project Structure
 
 /ekaa-app
+
 ├── frontend/ # React Native or Flutter code
+
 ├── backend/ # FastAPI + AI microservices
+
 ├── audio-lessons/ # 1-minute audio scripts
+
 ├── ai-models/ # NLP, speech, sentiment models
+
 └── README.md
 
 🏆 Maverick Effect Challenge
